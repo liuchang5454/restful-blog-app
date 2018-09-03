@@ -1,4 +1,8 @@
-#RESTful Routing
+===RESTful Routing Blog App===
+
+- This is a blog app that utilizes the RESTful routing. 
+- Open chart.html to view all the 7 RESTful routes.
+
 
 ##Introduction
 * Define REST and explain WHY it matters
